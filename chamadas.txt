@@ -1,0 +1,19 @@
+- linha 40 
+sqlDB.SetConnMaxLifetime(3 * time.Minute) é mesmo necessária?
+
+- 65 
+interface{}{} ? bem estranho
+
+- 90 e 103
+testar trocar os joins do gorm pela str
+
+- go rotines
+
+- channels
+
+vehicleTypes
+bodyworkIds
+nearCities
+destination
+source
+order.Freight
